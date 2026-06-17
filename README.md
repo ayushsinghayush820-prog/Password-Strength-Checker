@@ -9,7 +9,7 @@ A simple phython script that checks the strength of a password based on mutliple
 - Digits
 - Special Characters
 
-  ##How to run
+## How to run
   1. Install Phython
   2. Run; python password checker.py
   3. Enter your password after prompt run
